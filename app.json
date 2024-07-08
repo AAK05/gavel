@@ -1,6 +1,6 @@
 {
     "addons": [
-        "heroku-postgresql:Essential 0",
+        "heroku-postgresql:essential-0",
         "heroku-redis:mini"
     ],
     "formation": {
